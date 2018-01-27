@@ -216,7 +216,7 @@
 
 	class FFAASmg
 	{
-     name = "FFAA Sniper Rifles";
+     name = "FFAA SMG";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
